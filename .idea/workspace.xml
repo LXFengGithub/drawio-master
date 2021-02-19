@@ -1,19 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8faf371-336b-441d-bb88-bacb8e6432e5" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Extensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Extensions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Minimal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Minimal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-AWS3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-AWS3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Electrical.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Electrical.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Mockup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Mockup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Sysml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Sysml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-UML25.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-UML25.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/EditorUi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/EditorUi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/dia_zh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/dia_zh.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/shapes/mxAWS3D.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shapes/mxAWS3D.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="ProjectId" id="1oghmhk14U89QBSFBGXfzSmawva" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8faf371-336b-441d-bb88-bacb8e6432e5" name="默认更改列表" comment="" />
+      <created>1613714304891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613714304891</updated>
+      <workItem from="1613714307676" duration="7059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1613721672244">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1613721672244" />
+    <state x="379" y="250" width="629" height="518" key="find.popup" timestamp="1613723380415">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="379" y="250" width="629" height="518" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1613723380415" />
   </component>
 </project>

@@ -1376,6 +1376,12 @@
 
 	Sidebar.prototype.itemClicked = function(cells, ds, evt)
 	{
+		console.log(cells)
+		if(cells[0].style.indexOf("strokeWidth") == -1 ) {
+			cells[0].style = cells[0].style + ';strokeWidth=2;'
+		}
+		console.log(cells)
+
 		var graph = this.editorUi.editor.graph;
 		var handled = false;
 
