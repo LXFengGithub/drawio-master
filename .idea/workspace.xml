@@ -3,18 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a8faf371-336b-441d-bb88-bacb8e6432e5" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Extensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Extensions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Minimal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Minimal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-AWS3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-AWS3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Electrical.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Electrical.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Mockup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Mockup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Sysml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Sysml.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-UML25.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-UML25.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawio-修改标记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/drawio-修改标记.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/EditorUi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/EditorUi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/dia_zh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/dia_zh.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/shapes/mxAWS3D.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shapes/mxAWS3D.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/Graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/Graph.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,21 +52,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613714304891</updated>
-      <workItem from="1613714307676" duration="7059000" />
+      <workItem from="1613714307676" duration="9863000" />
     </task>
+    <task id="LOCAL-00001" summary="style:">
+      <created>1613725410777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613725410777</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add: style图形2px调整">
+      <created>1613725496742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613725496742</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="style:" />
+    <MESSAGE value="add: style图形2px调整" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: style图形2px调整" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="271" y="35" key="CommitChangelistDialog2" timestamp="1613725496486">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="271" y="35" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1613725496486" />
+    <state x="141" y="99" key="DiffContextDialog" timestamp="1613725368464">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="141" y="99" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1613725368464" />
+    <state x="431" y="169" key="RollbackChangesDialog" timestamp="1613725312694">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="431" y="169" key="RollbackChangesDialog/0.25.1440.875@0.25.1440.875" timestamp="1613725312694" />
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2" timestamp="1613725317707">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1613725317707" />
     <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1613721672244">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1613721672244" />
-    <state x="379" y="250" width="629" height="518" key="find.popup" timestamp="1613723380415">
+    <state x="379" y="250" width="629" height="518" key="find.popup" timestamp="1613725353539">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="379" y="250" width="629" height="518" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1613723380415" />
+    <state x="379" y="250" width="629" height="518" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1613725353539" />
   </component>
 </project>
