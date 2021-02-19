@@ -114,7 +114,7 @@
 					150, 50, 'ON', '开关按钮', null, null, this.getTagsForStencil(gn, 'onOffButton', dt + 'on off').join(' '))
 		];
 
-		this.addPalette('mockupButtons', '模型图 按钮', false, mxUtils.bind(this, function(content)
+		this.addPalette('mockupButtons', 'UI 按钮', false, mxUtils.bind(this, function(content)
 				{
 					for (var i = 0; i < fns.length; i++)
 					{
@@ -266,7 +266,7 @@
 				'zZZRb5swEMc/jR+LwC5pX9dk68NWtVIq7dmDA6wajGwnIf30O8AECFClyx5KFMn3x3c+3+9sQdg6rx41L7MnFYMk7Dtha62UbUd5tQYpCfVFTNiGUOrjn9AfC2+D5q1fcg2FvcSBtg57LnfQKluVAyoxJHwnLaErQlngE/aQgzE8hYFiobJeG8DYo3QBjNXqDX6L2GYoBDjPZDxWBzRqp5ibDGJncCnSAscRpgsahczmsvcq65B5ldbl8XIVve1KL1KF5aIAbTytIcJdPuiteAcXsV19raTSTTps1Tz4JkHHJd0FCO7Q3oO2IuLym8vNqhLVQyYsbEse1fMOmFDtKaQcREyap84Bp4kifa0dN4yi4qqMkaFaJNVIDtMjIAarjzjl4CpZ0wpbmn4GIs06t5UTuWmF9OTbg8eBYz/fB2zSB08dbv9VWGT7tTCfQ1uCu9wOXU4SEtsz+9VYm/sP6GowuPBw4xfRpf9GlzlNg+RW7GEU/xritxPiU8QODTqK0sBcOX3/Puqrwv/IE6BB9QpVwBj6RRVj8xUbOxzdLeeFrT2s50w56WfL6dZ/UQLTOi1+Q8PR8jfB2RlUSWLATnictnERonCC6PnnFz6HH12yk8aJbuvfTON85qK95uBVZ41zHAUYtFEw20fh/+mj7u7u+oix6/sIzf4Dop0+/L74Cw==')
 		];
 
-		this.addPalette('mockupContainers', '模型图 容器', false, mxUtils.bind(this, function(content)
+		this.addPalette('mockupContainers', 'UI 容器', false, mxUtils.bind(this, function(content)
 				{
 					for (var i = 0; i < fns.length; i++)
 					{
@@ -379,7 +379,7 @@
 				'7VhLU9swEP41vmacOLyOJQEu9FLa6VnI61igF3qQ0F/fXcmGdJzMtAOmh8QzcbyrfX6fV05cVAu1uXHMtl9NDbKoropq4YwJ+UptFiBlMStFXVTLYjYr8VPMrvesTtNqaZkDHf7GYZYdnpmMkDXXzqis9OFFdkofnHmEn6IOLSqmRXXpW1abNQolCjXzLdSdwKRYabzmWAI4VLRByTcvSyHVZkUtT5Thj9FOGuOUnzDNW+O2IjixagN5WcaFXn3L4nKGqsbosDCSzLG+6jQdqO/aARdgsxeSpOrwuAGjILgXNFl37eHqSUatbKHLSV7nWcd8llevnm/44kUH8W64qwHcD6bVxbx8yHjw/4W9c8AJ6kZIuYVrkw7UuzvxC7ok+7Dvk0totli7TdKyIk3qZMv1Ih3vpG3zJ2VbLFZj0Tgf0HgX7x8IwYMcnJce7gEDYxFwMiDgxgEE7PU4Pu8bn/1cjjZNpwMyv5uDHqSz4VY2FvZnA+wbhzgeH0gfPlE7SB1tos4HrC4WBz1R0/Lznk0XA/CPE/QhE7SLxNFGaFoOaLw89CGaf95zaTo9TtFIU7SDxfGmaPh+4dY4UGRifaTvOnWNxIpAyTBFMcO4JTfaI/QQIq2yWljhBU+/8EuQorPyyDDFIKWIXhkSAyibYgrNRS3qqCl0pJNk95ifrEOfmyTFVppRGimeIpvg1Q9aBy1USk4mIgvPqGQqZ3+KwuOXNkhgJCPYgOMisCCMppRSMsVNnzcbYxt9NSmdsMmRTiz1rbAL0yOA5QSqZ5lTsRioXuFiqrsHT1A2B9ZBC7oGl7BMymcjo8WCIJWecCvBexI53tJvFCRQIp6auBKMzDSVn281VERHZVxtONgAMTOWcDWcM+DJg0crahayd0LAOiNqulEzW5mJVBiP0rKMIQVpGiSX5Bo8uGynjMwFswy9SBD7Vx6jmhzkpkDbgeBMfulCBGNRu25FgDsMQ5nXWPQH7fpnw6fuvNy1X/T/yv9hwyjodWP/rjOt/fEq9Dc=')
 		];
 
-		this.addPalette('mockupForms', '模型图 表格', false, mxUtils.bind(this, function(content)
+		this.addPalette('mockupForms', 'UI 表格', false, mxUtils.bind(this, function(content)
 		{
 			for (var i = 0; i < fns.length; i++)
 			{
@@ -575,7 +575,7 @@
 			this.createVertexTemplateEntry(s + 'misc.map;', 250, 250, '', '地图', null, null, this.getTagsForStencil(gn, 'map', dt).join(' '))
 		];
 
-		this.addPalette('mockupGraphics', '模型图 图形', false, mxUtils.bind(this, function(content)
+		this.addPalette('mockupGraphics', 'UI 图形', false, mxUtils.bind(this, function(content)
 		{
 			for (var i = 0; i < fns.length; i++)
 			{
@@ -599,7 +599,7 @@
 		var gn = 'mxgraph.mockup.markup';
 		var dt = '';
 
-		this.addPaletteFunctions('mockupMarkup', '模型图 标记', false,
+		this.addPaletteFunctions('mockupMarkup', 'UI 标记', false,
 		[
 			this.createVertexTemplateEntry(s + 'markup.curlyBrace;' + skcl9,
 					100, 20, '', '水平卷曲支撑', null, null, this.getTagsForStencil(gn, 'curlyBrace', dt + 'horizontal curly brace').join(' ')),
@@ -714,7 +714,7 @@
 										10, 25, '', 'Pin', null, null, this.getTagsForStencil(gn, 'pin', dt).join(' '))
 		];
 
-		this.addPalette('mockupMisc', '模型图 杂项', false, mxUtils.bind(this, function(content)
+		this.addPalette('mockupMisc', 'UI 杂项', false, mxUtils.bind(this, function(content)
 		{
 			for (var i = 0; i < fns.length; i++)
 			{
@@ -766,7 +766,7 @@
 			this.createVertexTemplateEntry(s + 'misc.loading_circle_2;pointerEvents=1', 90, 90, '', '轮Th 2', null, null, this.getTagsForStencil(gn, 'loading_circle_2', dt + 'wheel throbber').join(' '))
 		];
 
-		this.addPalette('mockupNavigation', '模型图 导航', false, mxUtils.bind(this, function(content)
+		this.addPalette('mockupNavigation', 'UI 导航', false, mxUtils.bind(this, function(content)
 		{
 			for (var i = 0; i < fns.length; i++)
 			{
@@ -851,7 +851,7 @@
 			})
 		];
 
-	    this.addPalette('mockupText', '模型图 文字', false, mxUtils.bind(this, function(content)
+	    this.addPalette('mockupText', 'UI 文字', false, mxUtils.bind(this, function(content)
 	    {
 			for (var i = 0; i < fns.length; i++)
 			{
